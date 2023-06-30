@@ -494,4 +494,12 @@ h3 {
     font-size: 60px;
     color: #fff;
     -webkit-text-stroke: black 4px;
+    border: 2px solid #B92653;
+    width: fit-content;
+    padding: 10px;
+    margin: 0 0 10 ;
+}
+.video-container {
+    display: flex;
+    justify-content: center;
 }
